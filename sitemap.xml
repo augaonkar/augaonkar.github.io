@@ -3,7 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://augaonkar.github.io/post/hello1/</loc>
+    <lastmod>2018-05-05T13:39:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://augaonkar.github.io/post/hello/</loc>
+    <lastmod>2018-05-05T12:46:46-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://augaonkar.github.io/</loc>
+    <lastmod>2018-05-05T13:39:59-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://augaonkar.github.io/post/</loc>
+    <lastmod>2018-05-05T13:39:59-07:00</lastmod>
     <priority>0</priority>
   </url>
   

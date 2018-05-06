@@ -6,9 +6,21 @@
     <description>Recent content in Tutorials on Abhilash-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 05 May 2018 17:01:06 -0700</lastBuildDate>
     
 	<atom:link href="https://augaonkar.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Solutions Architect</title>
+      <link>https://augaonkar.github.io/tutorials/tutorial1/</link>
+      <pubDate>Sat, 05 May 2018 17:01:06 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/tutorials/tutorial1/</guid>
+      <description>  This AWS Tutorial Video will give you an introduction to AWS and its domains
+ In this AWS training video, you will understand :
+ What is Cloud? What is AWS? Different Domains in AWS AWS Pricing Migrate Your Application to AWS Infrastructure Use case    Video Source: Edureka </description>
+    </item>
     
   </channel>
 </rss>

@@ -33,6 +33,17 @@ In this guide, we&amp;rsquo;ll discuss some of Kubernetes&amp;rsquo; basic conce
     </item>
     
     <item>
+      <title>Getting Started with Kubernetes</title>
+      <link>https://augaonkar.github.io/tutorials/tutorial2/</link>
+      <pubDate>Sat, 05 May 2018 23:10:36 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/tutorials/tutorial2/</guid>
+      <description> A very brief introduction to Kubernetes
+ In this tutorial you will understand the basic concepts of Kubernetes along with the terminology and the deployment architecture. Video shows you everything from building a Docker image to going live with your application.
+  </description>
+    </item>
+    
+    <item>
       <title>AWS Solutions Architect</title>
       <link>https://augaonkar.github.io/tutorials/tutorial1/</link>
       <pubDate>Sat, 05 May 2018 17:01:06 -0700</pubDate>

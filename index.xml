@@ -1,33 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
+    <title>Abhilash-Blog</title>
     <link>https://augaonkar.github.io/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content on Abhilash-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 13:39:59 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 23:33:17 -0700</lastBuildDate>
     
 	<atom:link href="https://augaonkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Second Blog</title>
-      <link>https://augaonkar.github.io/post/hello1/</link>
-      <pubDate>Sat, 05 May 2018 13:39:59 -0700</pubDate>
+      <title>About Author</title>
+      <link>https://augaonkar.github.io/about/</link>
+      <pubDate>Sat, 05 May 2018 23:33:17 -0700</pubDate>
       
-      <guid>https://augaonkar.github.io/post/hello1/</guid>
-      <description>This is my second test&amp;hellip;&amp;hellip;&amp;hellip;.. Hop this will load &amp;hellip;.</description>
+      <guid>https://augaonkar.github.io/about/</guid>
+      <description>Abhilash Ugaonkar Abhilash has completed his Masters in Computer Science from Stevens Institute of Technology. Focus areas of his studies were Cloud Computing, Machine Learning and Business Intelligenece Analytics. He recently completed his internship at Fujitsu Laboratories of America, Sunnyvale, California. During his tenure he developed API consolidation and API Object Comparsion algorithms which are being considered as an invention by United Sates Patent and Trademark office.
+Before coming to United States he worked as Product Analyst with PTC Software, India.</description>
     </item>
     
     <item>
-      <title>My First Blog</title>
-      <link>https://augaonkar.github.io/post/hello/</link>
-      <pubDate>Sat, 05 May 2018 12:46:46 -0700</pubDate>
+      <title>About Author</title>
+      <link>https://augaonkar.github.io/about/about/</link>
+      <pubDate>Sat, 05 May 2018 23:33:17 -0700</pubDate>
       
-      <guid>https://augaonkar.github.io/post/hello/</guid>
-      <description>Hello World!!!
-This is my first blog test&amp;hellip;.   </description>
+      <guid>https://augaonkar.github.io/about/about/</guid>
+      <description>Abhilash Ugaonkar Abhilash has completed his Masters in Computer Science from Stevens Institute of Technology. Focus areas of his studies were Cloud Computing, Machine Learning and Business Intelligenece Analytics. He recently completed his internship at Fujitsu Laboratories of America, Sunnyvale, California. During his tenure he developed API consolidation and API Object Comparsion algorithms which are being considered as an invention by United Sates Patent and Trademark office.
+Before coming to United States he worked as Product Analyst with PTC Software, India.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Engine</title>
+      <link>https://augaonkar.github.io/post/blog3/</link>
+      <pubDate>Sat, 05 May 2018 23:14:35 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/post/blog3/</guid>
+      <description>Kubernetes Engine is a managed, production-ready environment for deploying containerized applications.
+ Introduction Kubernetes is a powerful open-source system, initially developed by Google, for managing containerized applications in a clustered environment. It aims to provide better ways of managing related, distributed components and services across varied infrastructure.
+In this guide, we&amp;rsquo;ll discuss some of Kubernetes&amp;rsquo; basic concepts. We will talk about the architecture of the system, the problems it solves, and the model that it uses to handle containerized deployments and scaling.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Kubernetes</title>
+      <link>https://augaonkar.github.io/tutorials/tutorial2/</link>
+      <pubDate>Sat, 05 May 2018 23:10:36 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/tutorials/tutorial2/</guid>
+      <description> A very brief introduction to Kubernetes
+ In this tutorial you will understand the basic concepts of Kubernetes along with the terminology and the deployment architecture. Video shows you everything from building a Docker image to going live with your application.
+  </description>
+    </item>
+    
+    <item>
+      <title>AWS Solutions Architect</title>
+      <link>https://augaonkar.github.io/tutorials/tutorial1/</link>
+      <pubDate>Sat, 05 May 2018 17:01:06 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/tutorials/tutorial1/</guid>
+      <description>  This AWS Tutorial Video will give you an introduction to AWS and its domains
+ In this AWS training video, you will understand :
+ What is Cloud? What is AWS? Different Domains in AWS AWS Pricing Migrate Your Application to AWS Infrastructure Use case    Video Source: Edureka </description>
+    </item>
+    
+    <item>
+      <title>Amazon Route 53</title>
+      <link>https://augaonkar.github.io/post/blog2/</link>
+      <pubDate>Sat, 05 May 2018 13:39:59 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/post/blog2/</guid>
+      <description>AWS&amp;rsquo;s DNS service, called Route 53, is a reliable and cost effective service for managing your domain. It has a simple RESTful API for managing them in the command-line.
+ Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications by translating names like www.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EC2</title>
+      <link>https://augaonkar.github.io/post/blog1/</link>
+      <pubDate>Thu, 05 Apr 2018 12:46:46 -0700</pubDate>
+      
+      <guid>https://augaonkar.github.io/post/blog1/</guid>
+      <description>Secure and resizable compute capacity in the cloud. Launch applications when needed without upfront commitments.
+ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers.
+Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.</description>
     </item>
     
   </channel>
